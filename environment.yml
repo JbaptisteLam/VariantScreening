@@ -1,0 +1,18 @@
+channels:
+  - defaults
+dependencies:
+  - ipython
+  - ipywidgets
+  - matplotlib
+  - numpy
+  - scipy
+  - re
+  - pandas
+  - ast
+  - sys
+  - json
+  - argparse
+  - os 
+  - time
+  - mimetypes
+  - seaborn
